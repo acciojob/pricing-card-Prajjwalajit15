@@ -1,1 +1,28 @@
-/*  your css code here. If applicable */
+ 
+ main{
+	width:160px;
+	height:300px;
+	background-color:#f1f1f1;
+	padding:40px;
+	box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+}
+img{
+	max-width:100%;
+}
+.m{
+	 margin: 0;
+    padding: 0;
+}
+button{
+	 
+	color:white; 
+	background-color:#1b1f90;
+	padding:10px;
+	border-radius:20%;
+	border-style:none;  
+	 
+}
+
+
+
+
